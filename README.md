@@ -1,2 +1,1 @@
-# hockey
-Aplicativo para una página de hockey
+# Migthy Ducks Hockey League
